@@ -1,4 +1,4 @@
-# MatFlight
+# Flight API
 
 This project was generated with Nodejs & Express.
 
